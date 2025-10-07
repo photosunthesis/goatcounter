@@ -1,0 +1,6 @@
+# flyctl launch added from .gitignore
+goatcounter
+goatcounter.test
+goatcounter.exe
+goatcounter-data
+fly.toml
